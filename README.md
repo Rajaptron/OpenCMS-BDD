@@ -1,14 +1,14 @@
 # OpenCMS-BDD
 Open Source CMS Automation With BDD
 
-#Used Tools
+# Used Tools
 Java
 Selenium
 Cucumber
 Gehrkins
 Junit
 
-#Jars Version
+# Jars Version
 cobertura-2.1.1
 cucumber-core-1.1.2
 cucumber-java-1.1.2
